@@ -13,6 +13,7 @@
 		8168DCDA25A3D725003D98B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8168DCD925A3D725003D98B9 /* Assets.xcassets */; };
 		8168DCDD25A3D725003D98B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8168DCDC25A3D725003D98B9 /* Preview Assets.xcassets */; };
 		8168DCE025A3D725003D98B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8168DCDE25A3D725003D98B9 /* LaunchScreen.storyboard */; };
+		8168DCE925A3DBF0003D98B9 /* slideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8168DCE825A3DBF0003D98B9 /* slideView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8168DCDC25A3D725003D98B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8168DCDF25A3D725003D98B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8168DCE125A3D725003D98B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8168DCE825A3DBF0003D98B9 /* slideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slideView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8168DCD325A3D722003D98B9 /* AppDelegate.swift */,
 				8168DCD525A3D722003D98B9 /* SceneDelegate.swift */,
 				8168DCD725A3D722003D98B9 /* ContentView.swift */,
+				8168DCE825A3DBF0003D98B9 /* slideView.swift */,
 				8168DCD925A3D725003D98B9 /* Assets.xcassets */,
 				8168DCDE25A3D725003D98B9 /* LaunchScreen.storyboard */,
 				8168DCE125A3D725003D98B9 /* Info.plist */,
@@ -147,6 +150,7 @@
 			files = (
 				8168DCD425A3D722003D98B9 /* AppDelegate.swift in Sources */,
 				8168DCD625A3D722003D98B9 /* SceneDelegate.swift in Sources */,
+				8168DCE925A3DBF0003D98B9 /* slideView.swift in Sources */,
 				8168DCD825A3D722003D98B9 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
